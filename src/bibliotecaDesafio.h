@@ -8,12 +8,13 @@
 #ifndef BIBLIOTECADESAFIO_H_
 #define BIBLIOTECADESAFIO_H_
 
-
-
-#endif /* BIBLIOTECADESAFIO_H_ */
-
 char desplegarMenu(void);
 void iniciar ();
 void procesar ();
 void finalizar ();
 char salir ();
+
+
+#endif /* BIBLIOTECADESAFIO_H_ */
+
+
